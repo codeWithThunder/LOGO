@@ -1,0 +1,10 @@
+#headerCoverPhoto{
+    width: 100%;
+    height: 100vh;
+    background-image: url('image/ss.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#button{
+    background: linear-gradient(135deg, rgba(149, 69, 154, 0.55) 0%, rgba(107, 45, 137, 1) 100%);
+}
